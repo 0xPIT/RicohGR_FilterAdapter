@@ -5,4 +5,11 @@ The thread is implicit, align metal filter carefully to be parallel and screw in
 
 I've printed mine on Ultimaker S5 using PLA with various settings and all results fit perfectly.
 
-![Printed Filter](Ricoh GR Filter.jpeg?raw=true "Printed Filter")
+### Examples
+![PrintedFilter]
+
+![AttachedFilter]
+
+
+[PrintedFilter]:/Ricoh%20GR%20Filter.jpeg
+[AttachedFilter]:/Ricoh%20GR%20Filter%20Attached.jpeg
